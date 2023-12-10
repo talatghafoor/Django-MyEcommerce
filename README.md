@@ -72,10 +72,10 @@ Follow these steps to set up the project locally:
 
 
 ## Snaps
-![](Snaps\Home.png)
-![](Snaps\Register.png)
-![](Snaps\Login.png)
-![](Snaps\Cart.png)
+![Screenshot](Snaps\Home.png)
+![Screenshot](Snaps\Register.png)
+![Screenshot](Snaps\Login.png)
+![Screenshot](Snaps\Cart.png)
 
 
 
